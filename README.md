@@ -16,7 +16,7 @@ Proje dosyasına aşağıdaki bağlantı üzerinden ulaşabilirsiniz:
 
 ---
 
-## 🧩 Kullanılan Veriler
+##  Kullanılan Veriler
 
 Projede kullanılan veri setleri aşağıdaki gibi özetlenebilir:
 
